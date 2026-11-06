@@ -1,0 +1,44 @@
+sources:
+  "2024.12.01":
+    - url: "https://github.com/maichmueller/cista.git"
+      commit: "c0fe432ce64a835d7af9c96adddf0234a8da86ab"
+      type: "git"
+  "2024.10.22":
+    - url: "https://github.com/felixguendling/cista.git"
+      commit: "56e9191ad64cbd4176aef32a631562ca92f5bd4a"
+      type: "git"
+  "0.15":
+    - url: "https://github.com/felixguendling/cista/archive/refs/tags/v0.15.tar.gz"
+      sha256: "f807d3282f68a74eed94d6e829763244ae22993169ab6ece7fd7c22bd2f08330"
+    - url: "https://raw.githubusercontent.com/felixguendling/cista/v0.15/LICENSE"
+      sha256: "fcd47e35fd6dc22feec454c5c1e572ccb7587dedd91d824528ebbb00a7f37c56"
+  "0.14":
+    - url: "https://github.com/felixguendling/cista/archive/refs/tags/v0.14.tar.gz"
+      sha256: "9844a55fd3fd35a15614de01ff54e97ad0216d7b3d3952f14bfd6ebd7d6ff58f"
+    - url: "https://raw.githubusercontent.com/felixguendling/cista/v0.14/LICENSE"
+      sha256: "fcd47e35fd6dc22feec454c5c1e572ccb7587dedd91d824528ebbb00a7f37c56"
+  "0.11":
+    - url: "https://github.com/felixguendling/cista/archive/refs/tags/v0.11.tar.gz"
+      sha256: "fe5a6837db32db577581336f9edefe07b12bf1a4e21ef54d4d7316ade02801ce"
+    - url: "https://raw.githubusercontent.com/felixguendling/cista/v0.11/LICENSE"
+      sha256: "fcd47e35fd6dc22feec454c5c1e572ccb7587dedd91d824528ebbb00a7f37c56"
+  "0.10":
+    - url: "https://github.com/felixguendling/cista/archive/refs/tags/v0.10.tar.gz"
+      sha256: "919aa7765e91825192d23f216954484f877cf4bad46b78134ae60ff255dee2b7"
+    - url: "https://raw.githubusercontent.com/felixguendling/cista/v0.10/LICENSE"
+      sha256: "fcd47e35fd6dc22feec454c5c1e572ccb7587dedd91d824528ebbb00a7f37c56"
+  "0.9":
+    - url: "https://github.com/felixguendling/cista/archive/refs/tags/v0.09.tar.gz"
+      sha256: "d5558cd419c8d46bdc958064cb97f963d1ea793866414c025906ec15033512ed"
+    - url: "https://raw.githubusercontent.com/felixguendling/cista/v0.9/LICENSE"
+      sha256: "fcd47e35fd6dc22feec454c5c1e572ccb7587dedd91d824528ebbb00a7f37c56"
+  "0.8":
+    - url: "https://github.com/felixguendling/cista/archive/refs/tags/v0.08.tar.gz"
+      sha256: "d5558cd419c8d46bdc958064cb97f963d1ea793866414c025906ec15033512ed"
+    - url: "https://raw.githubusercontent.com/felixguendling/cista/0.8/LICENSE"
+      sha256: "fcd47e35fd6dc22feec454c5c1e572ccb7587dedd91d824528ebbb00a7f37c56"
+  "0.7":
+    - url: "https://github.com/felixguendling/cista/archive/refs/tags/v0.07.tar.gz"
+      sha256: "d5558cd419c8d46bdc958064cb97f963d1ea793866414c025906ec15033512ed"
+    - url: "https://raw.githubusercontent.com/felixguendling/cista/v0.7/LICENSE"
+      sha256: "5db66757f5d9e791a8dcdca16dd59ad499dcfd9c245083bb7df93b20caa2bd55"

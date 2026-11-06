@@ -1,0 +1,12 @@
+diff --git CMakeLists.txt CMakeLists.txt
+index 1234567..890abcd 100644
+--- CMakeLists.txt
++++ CMakeLists.txt
+@@ -109,3 +109,6 @@
+ add_subdirectory(src)
+ 
+-add_subdirectory(exe)
++option(BUILD_CLI "Build CLI executable" OFF)
++if(BUILD_CLI)
++  add_subdirectory(exe)
++endif()

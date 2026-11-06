@@ -1,0 +1,8 @@
+requirements:
+  - "dlpack/1.2"
+  - "loki/02880ea1d4ce4ca11deca188050ea6cc83f88dbb"
+  - "nauty/2.8.8"
+  - "gtest/1.14.0"
+  - "unordered_dense/4.8.1"
+  - "parallel-hashmap/1.3.11"
+  - "valla/f487d3fcba00b88bba1e88d9e111747f53679da1"

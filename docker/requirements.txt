@@ -1,0 +1,8 @@
+# Third-party runtime dependencies, pinned to the versions of the training/evaluation environment.
+torch==2.10.0
+numpy==2.3.3
+loguru==0.7.3
+tqdm==4.67.1
+wandb==0.22.0
+networkx==3.5
+cmake==3.31.10

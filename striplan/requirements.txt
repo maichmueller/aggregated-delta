@@ -1,0 +1,6 @@
+torch>=2.8.0
+pymimir==0.14.1
+pymimir-rgnn==0.2.5
+pymimir-rl==0.2.6
+loguru==0.7.3
+wandb

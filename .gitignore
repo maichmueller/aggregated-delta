@@ -1,0 +1,7 @@
+# Dependency snapshots from the data archive (see README) and build outputs.
+/src/
+*.sif
+build/
+__pycache__/
+*.egg-info/
+.venv*/

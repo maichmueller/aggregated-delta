@@ -1,0 +1,12 @@
+diff --git a/src/pddl/formatter.cpp b/src/pddl/formatter.cpp
+index 7293a12..1234567 100644
+--- a/src/pddl/formatter.cpp
++++ b/src/pddl/formatter.cpp
+@@ -25,6 +25,7 @@
+ #include <fmt/ostream.h>
+ #include <fmt/ranges.h>
+ #include <sstream>
++#include <ranges>
+ 
+ namespace loki
+ {

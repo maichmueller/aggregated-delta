@@ -1,0 +1,7 @@
+build*/
+__pycache__/
+*.egg-info/
+**/*.pyi
+**/*.so
+**/*.dylib
+CMakeUserPresets.json
